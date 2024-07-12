@@ -1,9 +1,4 @@
 
-
-
-<h1 align="center">Hi 👋, I'm Nisa Nur Yılmaz</h1>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_nisaaylmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nisaaylmaz" height="30" width="40" /></a>
